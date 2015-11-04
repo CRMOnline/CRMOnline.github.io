@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://CRMOnline.github.io
+title: CRMOnline
+tagline: Know Your Customer, Empower Your Business
+description: A collection of blog posts and press releases from CRM Online based on the new and upcoming innovations of the CRM industry.
+paginate: 8
